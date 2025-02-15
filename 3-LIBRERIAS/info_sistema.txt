@@ -1,0 +1,5 @@
+
+Nombre del Sistema Operativo: win32
+Versión del Sistema Operativo: 10.0.19045
+Memoria Disponible (en MB): 5645.66 MB
+Número de CPUs Disponibles: 12
