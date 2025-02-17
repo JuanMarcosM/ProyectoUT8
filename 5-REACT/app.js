@@ -5,13 +5,13 @@ let state = {
   
   // Función para renderizar la vista
 function render() {
-    const root = document.getElementById('root');
+    let root = document.getElementById('root');
     
     // Limpiar el contenido actual
     root.innerHTML = '';
   
     // Crear los elementos HTML dinámicamente
-    const title = document.createElement('h1');
+    let title = document.createElement('h1');
     title.textContent = `Contador: ${state.count}`;
   
     let button1 = document.createElement('button');
